@@ -1,0 +1,21 @@
+#messages {
+    height: auto;
+    /* background-color: #000000; */
+    font-size: 12px;
+    padding: 20px;
+    color: #eee;
+    font-size: 14px;
+  }
+  
+  input {
+    width: 100%;
+  }
+  
+  #submit {
+    width: 100%;
+  }
+  .usernames{
+    /* background-color: black; */
+    padding: 20px;
+    color: #eee;
+  }
